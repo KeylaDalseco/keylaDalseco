@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [portfólio](https://github.com/KeylaDalseco/portfolio)
 
-- 🌱 I’m currently learning **ingles, typescript, vue, figma,**
+- 🌱 I’m currently learning **English, typescript, vue, figma,**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KeylaDalseco/portfolio](https://github.com/KeylaDalseco/portfolio)
 
