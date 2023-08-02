@@ -1,10 +1,11 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/KeylaDalseco/170a3db4f280f54f766c3879f52d1686/raw/b31fd1ec0a89a717e0bb06f8fb09a39c11045493/github.card.svg" />
+![header](https://capsule-render.vercel.app/api?type=waving&&color=0:6d41a1,50:f720db,100:fa9f32)
 <h1 align="center">Hi 👋, I'm Keyla Costa Dalseco</h1>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/KeylaDalseco/170a3db4f280f54f766c3879f52d1686/raw/b31fd1ec0a89a717e0bb06f8fb09a39c11045493/github.card.svg" />
 <h3 align="center">Nutritionist and passionate about programming - FullStack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=keyladalseco&label=Profile%20views&color=0e75b6&style=flat" alt="keyladalseco" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=keyladalseco&label=Profile%20views&color=blueviolet&style=plastic" alt="keyladalseco" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keyladalseco" alt="keyladalseco" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keyladalseco&rank=-C,-B,-?&row=2&column=3&margin-w=15" alt="keyladalseco" /></a> </p>
 
 - 🔭 I’m currently working on [portfólio](https://github.com/KeylaDalseco/portfolio)
 
