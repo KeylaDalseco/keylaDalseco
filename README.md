@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Keyla Costa Dalseco</h1>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/KeylaDalseco/844980a59d9c084522613a44c7dabe67/raw/27a9fad082811ede276d5096f08be6fc689a7b4a/github.card.svg" />
 <h3 align="center">Nutritionist and passionate about programming - FullStack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keyladalseco&label=Profile%20views&color=0e75b6&style=flat" alt="keyladalseco" /> </p>
