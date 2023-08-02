@@ -38,7 +38,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KeylaDalseco&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" alt="Anurag's GitHub stats" width="350" style="display: inline-block;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KeylaDalseco&show_icons=true&theme=radical" alt="Anurag's GitHub stats" width="350" style="display: inline-block;" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=keyladalseco&theme=radical" alt="Keyla's GitHub Streak" width="370" />
 </div>
   <br />
