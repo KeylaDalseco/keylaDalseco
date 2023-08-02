@@ -33,6 +33,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KeylaDalseco&layout=compact)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keyladalseco&" alt="keyladalseco" /></p>
+
 ### Main skills:
 
 ### Frontend:
@@ -79,12 +81,5 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{KeylaDalseco}/count.svg" /></p> 
 <br></div>
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keyladalseco&show_icons=true&locale=en&layout=compact" alt="keyladalseco" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keyladalseco&show_icons=true&locale=en" alt="keyladalseco" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keyladalseco&" alt="keyladalseco" /></p>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:6d41a1,50:f720db,100:fa9f32height=120&section=footer"/>
 
