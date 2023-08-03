@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **English, typescript, vue, figma.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/KeylaDalseco/portfolio](https://github.com/KeylaDalseco/portfolio)
-
 - 💬 Ask me about **React, Jest, SQL, Node.js, Express.**
 
 - 📫 How to reach me **keylacostadalseco@gmail.com**
