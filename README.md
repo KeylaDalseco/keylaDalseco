@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:6d41a1,50:f720db,100:fa9f32height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=827FFF&size=35&center=true&vCenter=true&width=1000&lines=Hello+%F0%9F%91%8B%2C+I'm+Keyla+Costa+Dalseco!;I'm+a+25+years+old;I'm+a+nutritionist;+and+a+full-stack+web+developer!+;Be+welcome+%3AD!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=827FFF&size=35&center=true&vCenter=true&width=1000&lines=Hello+%F0%9F%91%8B%2C+I'm+Keyla+Costa+Dalseco!;I'm+25+years+old;I'm+a+nutritionist;+and+a+full-stack+web+developer!+;Be+welcome+%3AD!)](https://git.io/typing-svg)
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode"><br>
 
